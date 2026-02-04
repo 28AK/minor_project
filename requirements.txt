@@ -1,0 +1,8 @@
+ipykernel
+numpy
+matplotlib
+librosa
+scikit-learn
+streamlit 
+noisereduce
+soundfile
